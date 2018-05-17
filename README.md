@@ -1,6 +1,6 @@
-## Welcome to Campus
+## Welcome to cmvp-jekyll
 
-You can use the [editor on GitHub](https://github.com/campusmvp-jekyll/campusmvp-jekyll.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/cmvp-jekyll/c-jekyll.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
